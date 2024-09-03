@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayathu Sjehan</h1>
+<h1 align="center">Hi 👋, I'm Jayathu Shehan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayathushehandew" alt="jayathushehandew" /></a> </p>
