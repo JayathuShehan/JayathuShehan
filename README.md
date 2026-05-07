@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Jayathu%20Shehan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Sri%20Lanka%20🇱🇰&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;React+%7C+Node.js+%7C+Flutter+developer;Always+learning%2C+always+shipping+🚀;Open+to+collaborate+on+cool+projects!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;React+%7C+Node.js+%7C+Flutter+developer;Always+learning%2C+always+shipping+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects!" alt="Typing SVG" />
 
 <br/>
 
@@ -97,7 +95,7 @@ const jayathu: Developer = {
 <!-- Streak Stats -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayathuShehan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=JayathuShehan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="60%" />
 
 </div>
 
@@ -122,12 +120,27 @@ const jayathu: Developer = {
 
 ## 📈 Contribution Breakdown
 
-<!-- Top languages donut-style — dynamic via github-readme-stats -->
+<!-- Top languages — compact layout (works on free tier) -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayathuShehan&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&hide=html,css" height="300" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayathuShehan&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayathuShehan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&card_width=500" width="500" />
+
+</div>
+
+<!-- Language progress bars via github-profile-summary-cards -->
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayathuShehan&theme=tokyonight)](https://github.com/JayathuShehan)
+&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayathuShehan&theme=tokyonight)](https://github.com/JayathuShehan)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayathuShehan&theme=tokyonight)](https://github.com/JayathuShehan)
+&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayathuShehan&theme=tokyonight&utcOffset=5.5)](https://github.com/JayathuShehan)
 
 </div>
 
