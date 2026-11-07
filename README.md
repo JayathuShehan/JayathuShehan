@@ -21,7 +21,7 @@
 - 🧱 Into clean architecture, scalable web apps and cross-platform mobile
 
 <!-- PROFILE_STATS:START -->
-📦 **7** public repos &nbsp;·&nbsp; 📅 on GitHub since **Jun 2022** &nbsp;·&nbsp; 🕒 last push **Nov 6, 2026**
+📦 **6** public repos &nbsp;·&nbsp; 📅 on GitHub since **Jun 2022** &nbsp;·&nbsp; 🕒 last push **Nov 7, 2026**
 <!-- PROFILE_STATS:END -->
 
 ### 🛠️ Tech Stack
