@@ -21,7 +21,7 @@
 - 🧱 Into clean architecture, scalable web apps and cross-platform mobile
 
 <!-- PROFILE_STATS:START -->
-📦 **6** public repos &nbsp;·&nbsp; 📅 on GitHub since **Jun 2022** &nbsp;·&nbsp; 🕒 last push **Nov 8, 2026**
+📦 **7** public repos &nbsp;·&nbsp; 📅 on GitHub since **Jun 2022** &nbsp;·&nbsp; 🕒 last push **Nov 9, 2026**
 <!-- PROFILE_STATS:END -->
 
 ### 🛠️ Tech Stack
@@ -35,12 +35,12 @@
 <!-- RECENT_REPOS:START -->
 | Project | Language | Last update |
 |---|---|---|
+| [bus-simulator](https://github.com/JayathuShehan/bus-simulator) | — | Nov 8, 2026 |
 | [Jayathu](https://github.com/JayathuShehan/Jayathu) | TypeScript | Sep 25, 2026 |
 | [tutorme-api](https://github.com/JayathuShehan/tutorme-api) | JavaScript | Jul 2, 2026 |
 | [haptivision_app](https://github.com/JayathuShehan/haptivision_app) | Dart | May 12, 2026 |
 | [WestminsterShoppingManager](https://github.com/JayathuShehan/WestminsterShoppingManager) | Java | Jul 19, 2024 |
 | [JavaScriptBeginners](https://github.com/JayathuShehan/JavaScriptBeginners) | JavaScript | Jun 19, 2024 |
-| [SlidingPuzzles](https://github.com/JayathuShehan/SlidingPuzzles) | Java | Apr 27, 2024 |
 <!-- RECENT_REPOS:END -->
 
 <sub>⚡ Auto-updated daily from the GitHub API by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
